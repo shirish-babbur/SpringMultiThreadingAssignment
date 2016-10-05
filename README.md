@@ -1,4 +1,22 @@
-#Spring Framework Assignment 
-In this Assignment there are 2 Programs listed below
-* Producer-Consumer Problem
-* Dining Philosopher Problem
+#Spring Dining Philosopher 
+
+Here we used following features.
+
+```
+@SpringBootApplication
+```
+```
+@Autowire
+```
+```
+@Bean
+```
+```
+@Qualifier
+```
+```
+@Component
+```
+###Built With
+* Intellij
+* Maven
